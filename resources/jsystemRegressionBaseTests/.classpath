@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemCore.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/serializer.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/xalan.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/junit.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/jfreechart-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/jcommon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/commons-net.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/jakarta-oro-2.0.8.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/jwizz-0.1.3.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/mysql-connector-java-3.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/qdox.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/looks.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemCommon.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/poi.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/commons-io-1.3.1.jar"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

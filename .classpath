@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="lib" path="lib/jregression.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemAnt.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/cli.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystem-launcher.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemAgent.jar" sourcepath="/jsystemAgent"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemApp.jar" sourcepath="/jsystemApp"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemCommon.jar"/>
+	<classpathentry kind="lib" path="/runner/lib/jsystemCore.jar" sourcepath="/jsystemCore"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/commons-codec.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/commons-compress.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/commons-httpclient.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/commons-logging-api.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/commons-net.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/jcommon.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/jfreechart.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/junit.jar" sourcepath="C:/Users/lior_g/.m2/repository/junit/junit/4.10/junit-4.10-sources.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/jwizz.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/looks.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/mail.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/poi.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/qdox.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/serializer.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/spring.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/xalan.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/xml-apis.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/jemmy.jar" sourcepath="C:/Users/lior_g/.m2/repository/org/netbeans/jemmy/2.2.7.5/jemmy-2.2.7.5-sources.jar"/>
+	<classpathentry kind="lib" path="/runner/thirdparty/commonLib/xmlrpc.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="classes"/>
+</classpath>

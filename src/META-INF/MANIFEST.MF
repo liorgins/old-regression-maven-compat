@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.3
+Created-By: 1.7.0_05-b06 (Oracle Corporation)
+Built-By: lior_g
+
+Name: com/aqua/jregression
+Implementation-Title: com.aqua.jregression
+Implementation-Version: lior_g 03-04-2013, 11-13-58 03-04-2013, 11-13-
+ 58
+Implementation-Vendor: AQUA Software, www.aquasw.com
+
